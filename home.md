@@ -2,7 +2,7 @@
 title: Outcome Oriented Communities
 description: The mechanisms of online communities with a purpose
 published: true
-date: 2022-10-11T13:40:41.857Z
+date: 2022-10-11T13:41:32.836Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-10T19:25:27.942Z
@@ -16,15 +16,11 @@ Thoughtful builders are already fighting back, crafting communities that value i
 
 ### Pillars
 
-1\.  Member context, not easy metrics (because sometimes churn is good)
+1.  Member context, not easy metrics (because sometimes churn is good)
+2.  Gather for a purpose (be *for* something, not just *about* something)
+3.  Demand less time (minimum impactful intervention, not a pile of homework)
 
-2\.  Gather for a purpose (be *for* something, not just *about* something)
-
-3\.  Demand less time (minimum impactful intervention, not a pile of homework)
-
-###   
-Mechanisms & design patterns
-
+### Mechanisms & design patterns
 ###### Facilitation and conversation
 
 -   Be the party starter, not the star
