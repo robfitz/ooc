@@ -2,7 +2,7 @@
 title: Outcome Oriented Communities
 description: The mechanisms of online communities with a purpose
 published: true
-date: 2022-10-11T13:41:32.836Z
+date: 2022-10-11T13:41:59.937Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-10T19:25:27.942Z
